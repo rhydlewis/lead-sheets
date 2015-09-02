@@ -58,6 +58,9 @@
 
 **Bridge (8 bars)**
 
+    |: Bm | G D/F# :|  x3
+    | Bm | G | 
+
 > Who knew the other side of you?    
 > Who knew what others died to prove?    
 > Too true to say goodbye to you    
