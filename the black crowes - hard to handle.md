@@ -1,11 +1,5 @@
 ### HARD TO HANDLE
 
-**Intro A**
-
-| # | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|
-| 1 | Drums | Riff | Riff | Riff | Riff |
-
 **Verse B, 8 bars**
 
 > Baby here I am, I’m the man on the scene    
@@ -36,26 +30,17 @@
 
 **Verse F, 8 bars**
 
-> Baby here I am, I’m a man on the scene     
-> I can give you what you want, but you got to come home with me     
-> I have got some good old lovin, and I got some more in store     
-> When I get through throwin it on ya got Ta come back for more     
+Repeat B
 
 **Chorus G, 8 bars**
 
-> Boys come along a dime by the dozen    
-> That ain’t nothin but drugstore lovin    
-> Pretty little thing let me light your candle    
-> cause mama I’m sure hard to handle, now, gets around    
+Repeat C
 
 **Solo H, 8 bars**
 
 **Chorus I, 8 bars**
 
-> Boys come along a dime by the dozen     
-> That ain’t nothin but drugstore lovin     
-> Pretty little thing let me light your candle     
-> cause mama I’m sure hard to handle, now, gets around     
+Repeat C
 
 **Solo J, 12 bars**
 

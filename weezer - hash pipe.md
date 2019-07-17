@@ -1,6 +1,5 @@
 ### Hash Pipe
 
-Intro (4 bars)    
 V1 (8 bars)    
 
 > I can't help my feelings, I'll go out of my mind    
@@ -9,8 +8,6 @@ V1 (8 bars)
 > Down on Santa Monica where tricks are for kids    
 
 C (16 bars)
-
-    |: D :|: riff :|: D :|: F :|: E :|: D :|: C :|: B :|
 
 > Oh, come on and kick me    
 > Oh, come on and kick me    
